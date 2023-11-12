@@ -7,8 +7,7 @@ import java.util.logging.SimpleFormatter;
 
 public class HandlerFile {
     Logger theLogger;
-
-
+  
     public HandlerFile() {
         LogManager logManager = LogManager.getLogManager();
         String loggerName = Logger.GLOBAL_LOGGER_NAME;

@@ -27,8 +27,8 @@ public class Logging {
         obj.MethodSevere();
         obj.MethodWarning();
         obj.MethodInfo();
-
-       // HandlerFile file = new HandlerFile();
+        
+        //HandlerFile file = new HandlerFile();
         //file.TestLogs();
     }
 }
